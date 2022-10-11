@@ -1,13 +1,21 @@
 .fond
 {
-    background-color: red;*
+    background-color: blue;
    
 }
 body
 {
     color: white;
 }
-.alignement
+.alignement,h1
 {
     text-align: center;
+}
+.thead
+{
+    background-color: grey;
+}
+#titren1
+{
+    color: yellow;
 }
